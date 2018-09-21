@@ -1,0 +1,78 @@
+body,
+html {
+    background: url(http://www.freeimageslive.com/galleries/workplace/education/pics/multiplication_blackboard.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.multScore {
+    position: relative;
+    margin-top: 30%;
+    margin-left: 20%;
+    font-size: 40px;
+    font-family: 'Nanum Pen Script', cursive;
+    color: white;
+    opacity: 0.9;
+}
+
+.multQuestion {
+    position: relative;
+    margin-left: 20%;
+    font-size: 40px;
+    font-family: 'Nanum Pen Script', cursive;
+    color: white;
+    opacity: 0.9;
+}
+
+.multEntry {
+    position: relative;
+    margin-left: 20%;
+    font-size: 40px;
+    font-family: 'Nanum Pen Script', cursive;
+    color: white;
+    opacity: 0.9;
+}
+
+.submit {
+    background-color: grey;
+    opacity: .7;
+}
+
+
+.winImage {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    display: block;
+}
+.winImageHidden {
+    display: none;
+}
+
+p, form {
+    position: relative;
+    margin-top: 10%;
+    margin-left: 10%;
+    font-family: 'Nanum Pen Script', cursive;
+    color: white;
+    font-size: 35px;
+    text-align: center
+}
+.title {
+    margin: 0 auto;
+    margin-top: 7%;
+}
+
+.button {
+    color: red;
+    height: 50px;
+    width: 100px;
+    font-size: 15px;
+    background-color: white;
+    margin-left: 0%;
+    border-radius: 5px;
+    font-family: 'Notable', sans-serif;
+    opacity: 0.8;
+}

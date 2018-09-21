@@ -1,0 +1,47 @@
+body,
+html {
+    background: url("https://previews.123rf.com/images/enciktep/enciktep1212/enciktep121200001/17076171-focus-of-chalkboard-and-simple-math-addition.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.winImage {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    display: block;
+}
+
+.winImageHidden {
+    display: none;
+}
+
+p, form {
+    position: relative;
+    margin-top: 10%;
+    margin-left: 10%;
+    font-family: 'Nanum Pen Script', cursive;
+    color: white;
+    font-size: 35px;
+    text-align: center
+}
+.title {
+    margin: 0 auto;
+    margin-top: 7%;
+}
+
+.button {
+    color: red;
+    height: 50px;
+    width: 100px;
+    font-size: 15px;
+    background-color: white;
+    margin-left: 0%;
+    border-radius: 5px;
+    font-family: 'Notable', sans-serif;
+    opacity: 0.8;
+}
+

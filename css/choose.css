@@ -1,0 +1,62 @@
+body,
+html {
+    background: url("https://previews.123rf.com/images/denisxize/denisxize1706/denisxize170600429/80978927-learn-math-chalkboard-with-math-isolated-elements-vector.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.addButton {
+    color: red;
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+    background-color: white;
+    margin-left: 20%;
+    border-radius: 5px;
+    font-family: 'Notable', sans-serif;
+    opacity: 0.8;
+}
+
+.subButton {
+    color: blue;
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+    background-color: white;
+    margin-left: 20%;
+    border-radius: 5px;
+    font-family: 'Notable', sans-serif;
+    opacity: 0.8;
+}
+
+.multButton {
+    color: green;
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+    background-color: white;
+    margin-left: 20%;
+    border-radius: 5px;
+    font-family: 'Notable', sans-serif;
+    opacity: 0.8;
+}
+
+p {
+    
+    margin-top: 10%;
+    font-family: 'Nanum Pen Script', cursive;
+    color: red;
+    font-size: 30px;
+    text-align: center
+}
+
+span {
+    background-color: rgba(0,0,0,0.7);
+}
+
+.title {
+    margin: 0 auto;
+    margin-top: 10%;
+}
